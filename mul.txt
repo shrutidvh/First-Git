@@ -1,3 +1,7 @@
 hey this is mul.txt file
-in this we besically do multiplication of ywo numbers
+n this we besically do multiplication of ywo numbers
 
+
+
+
+some more lines in this file
